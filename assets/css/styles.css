@@ -1,0 +1,19 @@
+body {background-color: red;
+
+
+}
+footer {
+    position: fixed;
+    bottom:0;
+    width: 100%;
+}
+.container {
+    width: 80%;
+    margin-left: 15%;
+margin-top: 5%;
+
+}
+
+/* .navbar{
+    color: white;
+} */
